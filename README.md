@@ -13,4 +13,4 @@ A simple web application to track expenses.
 - JavaScript
 
 ## Live Demo
-(Paste your GitHub Pages link)
+https://henry20070716.github.io/expense-tracker/
